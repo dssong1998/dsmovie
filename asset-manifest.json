@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/dsmoive/static/css/main.e9d24c3c.chunk.css",
-    "main.js": "/dsmoive/static/js/main.684e306c.chunk.js",
-    "main.js.map": "/dsmoive/static/js/main.684e306c.chunk.js.map",
-    "runtime-main.js": "/dsmoive/static/js/runtime-main.7c4669c4.js",
-    "runtime-main.js.map": "/dsmoive/static/js/runtime-main.7c4669c4.js.map",
-    "static/js/2.de45a4e4.chunk.js": "/dsmoive/static/js/2.de45a4e4.chunk.js",
-    "static/js/2.de45a4e4.chunk.js.map": "/dsmoive/static/js/2.de45a4e4.chunk.js.map",
-    "index.html": "/dsmoive/index.html",
-    "static/css/main.e9d24c3c.chunk.css.map": "/dsmoive/static/css/main.e9d24c3c.chunk.css.map",
-    "static/js/2.de45a4e4.chunk.js.LICENSE.txt": "/dsmoive/static/js/2.de45a4e4.chunk.js.LICENSE.txt"
+    "main.css": "/dsmovie/static/css/main.e9d24c3c.chunk.css",
+    "main.js": "/dsmovie/static/js/main.684e306c.chunk.js",
+    "main.js.map": "/dsmovie/static/js/main.684e306c.chunk.js.map",
+    "runtime-main.js": "/dsmovie/static/js/runtime-main.02047cb1.js",
+    "runtime-main.js.map": "/dsmovie/static/js/runtime-main.02047cb1.js.map",
+    "static/js/2.de45a4e4.chunk.js": "/dsmovie/static/js/2.de45a4e4.chunk.js",
+    "static/js/2.de45a4e4.chunk.js.map": "/dsmovie/static/js/2.de45a4e4.chunk.js.map",
+    "index.html": "/dsmovie/index.html",
+    "static/css/main.e9d24c3c.chunk.css.map": "/dsmovie/static/css/main.e9d24c3c.chunk.css.map",
+    "static/js/2.de45a4e4.chunk.js.LICENSE.txt": "/dsmovie/static/js/2.de45a4e4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7c4669c4.js",
+    "static/js/runtime-main.02047cb1.js",
     "static/js/2.de45a4e4.chunk.js",
     "static/css/main.e9d24c3c.chunk.css",
     "static/js/main.684e306c.chunk.js"
